@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+.defout{
+    background: var(--color-gray-900);
+    color: var(--color-white);
+}
