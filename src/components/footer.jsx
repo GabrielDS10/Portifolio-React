@@ -29,7 +29,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="hover:text-[#ff6f51] transition-colors"
           >
-            <i className="fab fa-linkedin"></i>
+            <i className="fab fa-instagram"></i>
           </a>
         </div>
       </footer>
