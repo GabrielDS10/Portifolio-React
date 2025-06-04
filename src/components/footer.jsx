@@ -24,7 +24,7 @@ export default function Footer() {
 
           <a
             aria-label="LinkedIn"
-            href="https://linkedin.com/in/seuusuario"
+            href="https://www.instagram.com/gabrields10_/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#ff6f51] transition-colors"
