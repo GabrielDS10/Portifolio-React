@@ -4,24 +4,24 @@ export default function About(){
         <section id="about" className="px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 pt-12 md:pt-20 pb-20 grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-20">
         <div className="flex flex-col space-y-12">
             <div className="flex items-center space-x-4">
-                <div className="border-l-2 border-[#ff6f51] h-12 relative">
-                    <span className="absolute -left-1.5 top-6 w-3 h-3 rounded-full bg-[#ff6f51]"></span>
+                <div className="border-l-2 border-[#00CFFF] h-12 relative">
+                    <span className="absolute -left-1.5 top-6 w-3 h-3 rounded-full bg-[#00CFFF]"></span>
                 </div>
                 <div className="flex items-center space-x-3">
                     <p className="text-xs sm:text-sm font-semibold">Desenvolvimento Web</p>
                 </div>
             </div>
             <div className="flex items-center space-x-4">
-                <div className="border-l-2 border-[#ff6f51] h-12 relative">
-                <span className="absolute -left-1.5 top-6 w-3 h-3 rounded-full bg-[#ff6f51]"></span>
+                <div className="border-l-2 border-[#00CFFF] h-12 relative">
+                <span className="absolute -left-1.5 top-6 w-3 h-3 rounded-full bg-[#00CFFF]"></span>
                 </div>
                  <div className="flex items-center space-x-3">
                     <p className="text-xs sm:text-sm font-semibold">Website Developer</p>
                 </div>
             </div>
             <div className="flex items-center space-x-4">
-                <div className="border-l-2 border-[#ff6f51] h-12 relative">
-                <span className="absolute -left-1.5 top-6 w-3 h-3 rounded-full bg-[#ff6f51]"></span>
+                <div className="border-l-2 border-[#00CFFF] h-12 relative">
+                <span className="absolute -left-1.5 top-6 w-3 h-3 rounded-full bg-[#00CFFF]"></span>
                 </div>
                  <div className="flex items-center space-x-3">
                     <p className="text-xs sm:text-sm font-semibold">Website Developer</p>
@@ -42,19 +42,19 @@ export default function About(){
              <div className="flex space-x-10 text-xs sm:text-sm font-semibold max-w-xl">
                 <div>
                     <p className="text-white text-lg sm:text-xl">120
-                    <span className="text-[#ff6f51]"> + </span>
+                    <span className="text-[#00CFFF]"> + </span>
                     </p>
                     <p className="text-[#a0a9b8] font-normal">Loading...</p>
                 </div>
                 <div>
                     <p className="text-white text-lg sm:text-xl">120
-                    <span className="text-[#ff6f51]"> + </span>
+                    <span className="text-[#00CFFF]"> + </span>
                     </p>
                     <p className="text-[#a0a9b8] font-normal">Loading...</p>
                 </div>
                 <div>
                     <p className="text-white text-lg sm:text-xl">120
-                    <span className="text-[#ff6f51]"> + </span>
+                    <span className="text-[#00CFFF]"> + </span>
                     </p>
                     <p className="text-[#a0a9b8] font-normal">Loading...</p>
                 </div>
