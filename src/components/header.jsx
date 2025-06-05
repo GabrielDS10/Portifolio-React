@@ -5,7 +5,7 @@ export default function Header(){
 
        <nav className=" flex justify-between items-center text-sm sm:text-base">
         
-        <div className="font-semibold">Gabriel Ds</div>
+        <div className="font-semibold">NogDev</div>
           <div>
   
               <ul className="flex space-x-6">

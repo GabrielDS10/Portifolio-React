@@ -8,13 +8,13 @@ export default function Footer() {
         <p className="text-xs text-[#5a6a7a] mb-4">Inspirado em Jensen Omega</p>
 
         <div className="flex justify-center space-x-6 text-[#5a6a7a] text-xl">
-          <a aria-label="Email" href="mailto:seuemail@exemplo.com" className="hover:text-[#ff6f51] transition-colors">
+          <a aria-label="Email" href="mailto:lgabrields10@gmail.com" className="hover:text-[#ff6f51] transition-colors">
             <i className="fas fa-envelope"></i>
           </a>
 
           <a
             aria-label="Github"
-            href="https://github.com/seuusuario"
+            href="https://github.com/gabrields10"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#ff6f51] transition-colors"
@@ -23,7 +23,7 @@ export default function Footer() {
           </a>
 
           <a
-            aria-label="LinkedIn"
+            aria-label="Instagram"
             href="https://www.instagram.com/gabrields10_/"
             target="_blank"
             rel="noopener noreferrer"

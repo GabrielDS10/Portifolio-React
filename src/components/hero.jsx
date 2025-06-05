@@ -8,9 +8,9 @@ export default function Hero(){
                 <h1 className="text-3xl sm:text-4xl font-extrabold leading-tight">OLÁ <span className="text-[#ff6f51]">.</span></h1>
                 <div className="flex items-center space-x-3 mt-3 mb-2">
                     <div className="border-b border-[#ff6f51] w-14"></div>
-                    <p className="text-lg">Eu sou Luiz Gabriel</p>
+                    <p className="text-lg">Bem vindo ao NogDev</p>
                 </div>
-                <h2 className="text-3xl sm:text-4xl font-extrabold leading-tight mb-6">Web Developer</h2>
+                <h2 className="text-3xl sm:text-4xl font-extrabold leading-tight mb-6">Estudante de T.i</h2>
                 <div className="flex space-x-4">
                     <button className="bg-[#ff6f51] text-white text-sm sm:text-base font-semibold px-5 py-2 rounded">Contato</button>
                     <button className="border border-[#ff6f51] text-[#ff6f51] text-sm sm:text-base font-semibold px-5 py-2 rounded">Meu curriculo</button>

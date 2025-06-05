@@ -21,7 +21,10 @@
                         <span className="bg-[#a0a9b8] rounded-full px-2 py-0.5">CSS</span>
                         <span className="bg-[#a0a9b8] rounded-full px-2 py-0.5">JavaScript</span>
                     </div>
-                    <p className="text-xs sm:text-sm text-[#a0a9b8] mb-4 max-w-md leading-relaxed">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem dignissimos animi illum repellat iusto repellendus autem corporis, delectus at doloribus similique quibusdam minus ab hic dolores odit voluptatibus quos. Molestias sapiente nam, cum fuga quibusdam magni odio temporibus animi architecto?</p>
+                    <p className="text-xs sm:text-sm text-[#a0a9b8] mb-4 max-w-md leading-relaxed">Este projeto é um um jogo de digitação rápida.
+                    No jogo, palavras descem do topo da tela, e o jogador deve digitá-las rapidamente
+                    para destruí-las antes que atinjam a parte inferior. A dificuldade aumenta com o tempo,
+                    à medida que mais palavras surgem e com maior velocidade</p>
                     <div className="flex space-x-4 mb-6">
                         <button className="bg-[#ff6f51] text-white text-xs sm:text-sm font-semibold px-4 py-2 rounded cursor-pointer ">Ver Github</button>
                         <button className="text-[#a0a9b8] text-xs sm:text-sm font-semibold underline flex items-center space-x-1 cursor-pointer">
