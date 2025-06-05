@@ -7,13 +7,13 @@ export default function Hero(){
             <div>
                 <h1 className="text-3xl sm:text-4xl font-extrabold leading-tight">OLÁ <span className="text-[#00CFFF]">.</span></h1>
                 <div className="flex items-center space-x-3 mt-3 mb-2">
-                    <div className="border-b border-[#ff6f51] w-14"></div>
+                    <div className="border-b border-[#00CFFF] w-14"></div>
                     <p className="text-lg">Bem vindo ao NogDev</p>
                 </div>
                 <h2 className="text-3xl sm:text-4xl font-extrabold leading-tight mb-6">Estudante de T.i</h2>
                 <div className="flex space-x-4">
-                    <button className="bg-[#ff6f51] text-white text-sm sm:text-base font-semibold px-5 py-2 rounded">Contato</button>
-                    <button className="border border-[#ff6f51] text-[#ff6f51] text-sm sm:text-base font-semibold px-5 py-2 rounded">Meu curriculo</button>
+                    <button className="bg-[#00CFFF] text-white text-sm sm:text-base font-semibold px-5 py-2 rounded">Contato</button>
+                    <button className="border border-[#00CFFF] text-[#00CFFF] text-sm sm:text-base font-semibold px-5 py-2 rounded">Meu curriculo</button>
                 </div>
             </div>
 
