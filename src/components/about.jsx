@@ -44,19 +44,19 @@ export default function About(){
                     <p className="text-white text-lg sm:text-xl">120
                     <span className="text-[#ff6f51]"> + </span>
                     </p>
-                    <p className="text-[#a0a9b8] font-normal">projetos complestos</p>
+                    <p className="text-[#a0a9b8] font-normal">Loading...</p>
                 </div>
                 <div>
                     <p className="text-white text-lg sm:text-xl">120
                     <span className="text-[#ff6f51]"> + </span>
                     </p>
-                    <p className="text-[#a0a9b8] font-normal">projetos complestos</p>
+                    <p className="text-[#a0a9b8] font-normal">Loading...</p>
                 </div>
                 <div>
                     <p className="text-white text-lg sm:text-xl">120
                     <span className="text-[#ff6f51]"> + </span>
                     </p>
-                    <p className="text-[#a0a9b8] font-normal">projetos complestos</p>
+                    <p className="text-[#a0a9b8] font-normal">Loading...</p>
                 </div>
              </div>
             
