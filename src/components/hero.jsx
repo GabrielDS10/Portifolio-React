@@ -5,7 +5,7 @@ export default function Hero(){
         <>
         <section id="hero" className="relative flex flex-col-reverse md:flex-row items-center justify-between px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 pt-12 md:pt-20 pb-10 md:pb-20">
             <div>
-                <h1 className="text-3xl sm:text-4xl font-extrabold leading-tight">OLÁ <span className="text-[#ff6f51]">.</span></h1>
+                <h1 className="text-3xl sm:text-4xl font-extrabold leading-tight">OLÁ <span className="text-[#00CFFF]">.</span></h1>
                 <div className="flex items-center space-x-3 mt-3 mb-2">
                     <div className="border-b border-[#ff6f51] w-14"></div>
                     <p className="text-lg">Bem vindo ao NogDev</p>

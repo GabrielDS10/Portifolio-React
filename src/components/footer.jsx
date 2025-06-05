@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className="bg-[#0f1724] py-8 px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 text-center">
-        <p className="font-semibold mb-1">Gabriel DS</p>
+        <p className="font-semibold mb-1">Feito por Gabriel DS</p>
         <p className="text-xs text-[#5a6a7a] mb-4">Inspirado em Jensen Omega</p>
 
         <div className="flex justify-center space-x-6 text-[#5a6a7a] text-xl">
