@@ -48,7 +48,7 @@ export default function Hero(){
 
         {showModal && (
   <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
-    <div className="bg-white p-6 rounded-lg shadow-lg">
+    <div className="bg-[#000e19] p-6 rounded-lg shadow-lg">
       <h2 className="text-xl font-bold mb-4">Meus Contatos</h2>
       <ul className="space-y-2">
         <li>Email: seuemail@exemplo.com</li>
