@@ -3,7 +3,7 @@
     export default function Project(){
         return(
             <>
-            <section className="px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 pb-20">
+            <section id="projetos" className="px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 pb-20">
 
             <h3 className="text-2xl font-extrabold mb-10 text-center">Projetos</h3>
             <div className="flex flex-col items-center space-y-2 mb-20">

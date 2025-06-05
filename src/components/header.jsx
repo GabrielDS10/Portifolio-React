@@ -11,8 +11,8 @@ export default function Header(){
               <ul className="flex space-x-6">
                 <li><a  className="hover:underline" href="#">Menu</a></li>
                 <li><a className="hover:underline" href="#about">Sobre</a></li>
-                <li><a className="hover:underline"  href="#">Projetos</a></li>
-                <li><a  className="hover:underline" href="">Contato</a></li>
+                <li><a className="hover:underline"  href="#projetos">Projetos</a></li>
+                <li><a  className="hover:underline" href="#footer">Contato</a></li>
               </ul>
           </div>
 
