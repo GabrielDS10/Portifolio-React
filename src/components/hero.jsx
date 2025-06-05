@@ -23,13 +23,13 @@ export default function Hero(){
         </section>
         
         <nav className="flex justify-center space-x-8 text-xs sm:text-sm text-[#1a2a3a] bg-[#0f1724] py-3 select-none">
-            <span className="opacity-45 cursor-pointer hover:text-white">HTML</span>
-            <span className="opacity-45 cursor-pointer hover:text-white">CSS</span>
-            <span className="opacity-45 cursor-pointer hover:text-white">JavaScript</span>
-            <span className="opacity-45 cursor-pointer hover:text-white">NodeJS.</span>
-            <span className="opacity-45 cursor-pointer hover:text-white">React</span>
-            <span className="opacity-45 cursor-pointer hover:text-white">Git</span>
-            <span className="opacity-45 cursor-pointer hover:text-white">GitHub</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">HTML</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">CSS</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">JavaScript</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">NodeJS.</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">React</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">Git</span>
+            <span className="opacity-60 cursor-pointer hover:text-white">GitHub</span>
         </nav>
         </>
     )
